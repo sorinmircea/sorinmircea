@@ -8,6 +8,8 @@ I’ve spent the past 5+ years at **Apple** and **Google**, shipping products to
 📄 You can also check out **[My CV](https://drive.google.com/file/d/1WpGSTFAjUqtit-jih57G5vpAveJKnheg/view)**.  
 
 ---
+
+```ansi
 [1;37m        [1;31m^
 [1;37m       [1;31m/^\
 [1;37m      [1;31m/[1;37m___[1;31m\
@@ -30,3 +32,4 @@ I’ve spent the past 5+ years at **Apple** and **Google**, shipping products to
 [0;37m        .
          .
          .
+```
