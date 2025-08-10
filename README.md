@@ -8,7 +8,7 @@ I’ve spent the past 5+ years at **Apple** and **Google**, shipping products to
 📄 You can also check out **[My CV](https://drive.google.com/file/d/1WpGSTFAjUqtit-jih57G5vpAveJKnheg/view)**.  
 
 ---
-
+```
        /\    
       /  \   
      /++++\  
@@ -30,3 +30,4 @@ I’ve spent the past 5+ years at **Apple** and **Google**, shipping products to
        ()
         .
         .
+```
